@@ -1,0 +1,219 @@
+[18:42:32] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:45} INFO - Welcome To Intelligent Library Managment System
+[18:42:32] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:46} INFO - child_lectname file calling here
+[18:42:32] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:47} WARNING - check db connection
+[18:42:32] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:48} WARNING - chck db available
+[18:42:32] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:49} WARNING - check table available
+[18:42:32] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:50} WARNING - check server is on
+[18:42:32] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:51} WARNING - if error occured then remove try catch block
+[18:42:32] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:52} DEBUG - drdo database establishing in child_lectname file
+[18:42:32] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:53} DEBUG - child_lectname database connection establishing..in child_lectname FILE
+[18:43:43] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:50} INFO - Welcome To Intelligent Library Managment System
+[18:43:43] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:51} INFO - child_lectname file calling here
+[18:43:43] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:52} WARNING - check db connection
+[18:43:43] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:53} WARNING - chck db available
+[18:43:43] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:54} WARNING - check table available
+[18:43:43] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:55} WARNING - check server is on
+[18:43:43] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:56} WARNING - if error occured then remove try catch block
+[18:43:43] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:57} DEBUG - drdo database establishing in child_lectname file
+[18:43:43] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:58} DEBUG - child_lectname database connection establishing..in child_lectname FILE
+[18:43:43] {C:\Users\rtatt\AppData\Local\Programs\Python\Python39\lib\site-packages\mysql\connector\connection.py:235} DEBUG - new_auth_plugin: mysql_native_password
+[18:47:21] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:50} INFO - Welcome To Intelligent Library Managment System
+[18:47:21] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:51} INFO - child_lectname file calling here
+[18:47:21] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:52} WARNING - check db connection
+[18:47:21] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:53} WARNING - chck db available
+[18:47:21] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:54} WARNING - check table available
+[18:47:21] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:55} WARNING - check server is on
+[18:47:21] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:56} WARNING - if error occured then remove try catch block
+[18:47:21] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:57} DEBUG - drdo database establishing in child_lectname file
+[18:47:21] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:58} DEBUG - child_lectname database connection establishing..in child_lectname FILE
+[18:47:21] {C:\Users\rtatt\AppData\Local\Programs\Python\Python39\lib\site-packages\mysql\connector\connection.py:235} DEBUG - new_auth_plugin: mysql_native_password
+2021-07-04 20:24:18 INFO     Welcome To Intelligent Library Managment System
+2021-07-04 20:24:18 INFO     child_lectname file calling here
+2021-07-04 20:24:18 WARNING  check db connection
+2021-07-04 20:24:18 WARNING  chck db available
+2021-07-04 20:24:18 WARNING  check table available
+2021-07-04 20:24:18 WARNING  check server is on
+2021-07-04 20:24:18 WARNING  if error occured then remove try catch block
+2021-07-04 20:24:18 DEBUG    drdo database establishing in child_lectname file
+2021-07-04 20:24:18 DEBUG    child_lectname database connection establishing..in child_lectname FILE
+2021-07-04 20:24:19 DEBUG    new_auth_plugin: mysql_native_password
+2021-07-04 20:24:57 INFO     Welcome To Intelligent Library Managment System
+2021-07-04 20:24:57 INFO     child_lectname file calling here
+2021-07-04 20:24:57 WARNING  check db connection
+2021-07-04 20:24:57 WARNING  chck db available
+2021-07-04 20:24:57 WARNING  check table available
+2021-07-04 20:24:57 WARNING  check server is on
+2021-07-04 20:24:57 WARNING  if error occured then remove try catch block
+2021-07-04 20:24:57 DEBUG    drdo database establishing in child_lectname file
+2021-07-04 20:24:57 DEBUG    child_lectname database connection establishing..in child_lectname FILE
+2021-07-04 20:24:57 DEBUG    new_auth_plugin: mysql_native_password
+2021-07-04 20:27:42 INFO     Welcome To Intelligent Library Managment System
+2021-07-04 20:27:42 INFO     child_lectname file calling here
+2021-07-04 20:27:42 WARNING  check db connection
+2021-07-04 20:27:42 WARNING  chck db available
+2021-07-04 20:27:42 WARNING  check table available
+2021-07-04 20:27:42 WARNING  check server is on
+2021-07-04 20:27:42 WARNING  if error occured then remove try catch block
+2021-07-04 20:27:42 DEBUG    drdo database establishing in child_lectname file
+2021-07-04 20:27:42 DEBUG    child_lectname database connection establishing..in child_lectname FILE
+2021-07-04 20:29:17 INFO     Welcome To Intelligent Library Managment System
+2021-07-04 20:29:17 INFO     child_lectname file calling here
+2021-07-04 20:29:17 WARNING  check db connection
+2021-07-04 20:29:17 WARNING  chck db available
+2021-07-04 20:29:17 WARNING  check table available
+2021-07-04 20:29:17 WARNING  check server is on
+2021-07-04 20:29:17 WARNING  if error occured then remove try catch block
+2021-07-04 20:29:17 DEBUG    drdo database establishing in child_lectname file
+2021-07-04 20:29:17 DEBUG    child_lectname database connection establishing..in child_lectname FILE
+2021-07-04 20:29:17 DEBUG    new_auth_plugin: mysql_native_password
+2021-07-04 20:33:24 INFO     Welcome To Intelligent Library Managment System
+2021-07-04 20:33:24 INFO     child_lectname file calling here
+2021-07-04 20:33:24 WARNING  check db connection
+2021-07-04 20:33:24 WARNING  chck db available
+2021-07-04 20:33:24 WARNING  check table available
+2021-07-04 20:33:24 WARNING  check server is on
+2021-07-04 20:33:24 WARNING  if error occured then remove try catch block
+2021-07-04 20:33:24 DEBUG    drdo database establishing in child_lectname file
+2021-07-04 20:33:24 DEBUG    child_lectname database connection establishing..in child_lectname FILE
+2021-07-04 20:33:24 DEBUG    new_auth_plugin: mysql_native_password
+[20:38:12] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:50} INFO - Welcome To Intelligent Library Managment System
+[20:38:12] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:51} INFO - child_lectname file calling here
+[20:38:12] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:52} WARNING - check db connection
+[20:38:12] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:53} WARNING - chck db available
+[20:38:12] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:54} WARNING - check table available
+[20:38:12] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:55} WARNING - check server is on
+[20:38:12] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:56} WARNING - if error occured then remove try catch block
+[20:38:12] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:57} DEBUG - drdo database establishing in child_lectname file
+[20:38:12] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:58} DEBUG - child_lectname database connection establishing..in child_lectname FILE
+[20:38:12] {C:\Users\rtatt\AppData\Local\Programs\Python\Python39\lib\site-packages\mysql\connector\connection.py:235} DEBUG - new_auth_plugin: mysql_native_password
+[20:39:46] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:50} INFO - Welcome To Intelligent Library Managment System
+[20:39:46] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:51} INFO - child_lectname file calling here
+[20:39:46] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:52} WARNING - check db connection
+[20:39:46] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:53} WARNING - chck db available
+[20:39:46] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:54} WARNING - check table available
+[20:39:46] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:55} WARNING - check server is on
+[20:39:46] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:56} WARNING - if error occured then remove try catch block
+[20:39:46] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:57} DEBUG - drdo database establishing in child_lectname file
+[20:39:46] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:58} DEBUG - child_lectname database connection establishing..in child_lectname FILE
+[20:39:46] {C:\Users\rtatt\AppData\Local\Programs\Python\Python39\lib\site-packages\mysql\connector\connection.py:235} DEBUG - new_auth_plugin: mysql_native_password
+[20:40:34] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:50} INFO - Welcome To Intelligent Library Managment System
+[20:40:34] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:51} INFO - child_lectname file calling here
+[20:40:34] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:52} WARNING - check db connection
+[20:40:34] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:53} WARNING - chck db available
+[20:40:34] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:54} WARNING - check table available
+[20:40:34] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:55} WARNING - check server is on
+[20:40:34] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:56} WARNING - if error occured then remove try catch block
+[20:40:34] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:57} DEBUG - drdo database establishing in child_lectname file
+[20:40:34] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:58} DEBUG - child_lectname database connection establishing..in child_lectname FILE
+2021-07-04 20:43:14 INFO     Welcome To Intelligent Library Managment System
+2021-07-04 20:43:14 INFO     child_lectname file calling here
+2021-07-04 20:43:14 WARNING  check db connection
+2021-07-04 20:43:14 WARNING  chck db available
+2021-07-04 20:43:14 WARNING  check table available
+2021-07-04 20:43:14 WARNING  check server is on
+2021-07-04 20:43:14 WARNING  if error occured then remove try catch block
+2021-07-04 20:43:14 DEBUG    drdo database establishing in child_lectname file
+2021-07-04 20:43:14 DEBUG    child_lectname database connection establishing..in child_lectname FILE
+2021-07-04 20:43:14 DEBUG    new_auth_plugin: mysql_native_password
+2021-07-04 21:47:29 INFO     Welcome To Intelligent Library Managment System
+2021-07-04 21:47:29 INFO     child_lectname file calling here
+2021-07-04 21:47:29 WARNING  check db connection
+2021-07-04 21:47:29 WARNING  chck db available
+2021-07-04 21:47:29 WARNING  check table available
+2021-07-04 21:47:29 WARNING  check server is on
+2021-07-04 21:47:29 WARNING  if error occured then remove try catch block
+2021-07-04 21:47:29 DEBUG    drdo database establishing in child_filepath file
+2021-07-04 21:47:29 DEBUG    child_real database connection establishing..in child_filepath FILE
+[21:47:56] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:50} INFO - Welcome To Intelligent Library Managment System
+[21:47:56] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:51} INFO - child_lectname file calling here
+[21:47:56] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:52} WARNING - check db connection
+[21:47:56] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:53} WARNING - chck db available
+[21:47:56] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:54} WARNING - check table available
+[21:47:56] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:55} WARNING - check server is on
+[21:47:56] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:56} WARNING - if error occured then remove try catch block
+[21:47:56] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:57} DEBUG - drdo database establishing in child_lectname file
+[21:47:56] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:58} DEBUG - child_lectname database connection establishing..in child_lectname FILE
+[21:53:11] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:50} INFO - Welcome To Intelligent Library Managment System
+[21:53:11] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:51} INFO - child_lectname file calling here
+[21:53:11] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:52} WARNING - check db connection
+[21:53:11] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:53} WARNING - chck db available
+[21:53:11] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:54} WARNING - check table available
+[21:53:11] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:55} WARNING - check server is on
+[21:53:11] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:56} WARNING - if error occured then remove try catch block
+[21:53:11] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:57} DEBUG - drdo database establishing in child_lectname file
+[21:53:11] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:58} DEBUG - child_lectname database connection establishing..in child_lectname FILE
+[21:53:11] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:75} ERROR - child_lectname table in np db is not connnected successfully in child_lectname file
+[21:58:34] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:50} INFO - Welcome To Intelligent Library Managment System
+[21:58:34] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:51} INFO - child_lectname file calling here
+[21:58:34] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:52} WARNING - check db connection
+[21:58:34] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:53} WARNING - chck db available
+[21:58:34] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:54} WARNING - check table available
+[21:58:34] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:55} WARNING - check server is on
+[21:58:34] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:56} WARNING - if error occured then remove try catch block
+[21:58:34] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:57} DEBUG - drdo database establishing in child_lectname file
+[21:58:34] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:58} DEBUG - child_lectname database connection establishing..in child_lectname FILE
+[21:58:34] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:75} ERROR - child_lectname table in np db is not connnected successfully in child_lectname file
+[21:59:44] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:50} INFO - Welcome To Intelligent Library Managment System
+[21:59:44] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:51} INFO - child_lectname file calling here
+[21:59:44] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:52} WARNING - check db connection
+[21:59:44] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:53} WARNING - chck db available
+[21:59:44] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:54} WARNING - check table available
+[21:59:44] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:55} WARNING - check server is on
+[21:59:44] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:56} WARNING - if error occured then remove try catch block
+[21:59:44] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:57} DEBUG - drdo database establishing in child_lectname file
+[21:59:44] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:58} DEBUG - child_lectname database connection establishing..in child_lectname FILE
+[21:59:44] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:75} ERROR - child_lectname table in np db is not connnected successfully in child_lectname file
+[22:01:15] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:50} INFO - Welcome To Intelligent Library Managment System
+[22:01:15] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:51} INFO - child_lectname file calling here
+[22:01:15] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:52} WARNING - check db connection
+[22:01:15] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:53} WARNING - chck db available
+[22:01:15] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:54} WARNING - check table available
+[22:01:15] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:55} WARNING - check server is on
+[22:01:15] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:56} WARNING - if error occured then remove try catch block
+[22:01:15] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:57} DEBUG - drdo database establishing in child_lectname file
+[22:01:15] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:58} DEBUG - child_lectname database connection establishing..in child_lectname FILE
+[22:01:15] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:75} ERROR - child_lectname table in np db is not connnected successfully in child_lectname file
+[22:02:38] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:50} INFO - Welcome To Intelligent Library Managment System
+[22:02:38] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:51} INFO - child_lectname file calling here
+[22:02:38] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:52} WARNING - check db connection
+[22:02:38] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:53} WARNING - chck db available
+[22:02:38] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:54} WARNING - check table available
+[22:02:38] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:55} WARNING - check server is on
+[22:02:38] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:56} WARNING - if error occured then remove try catch block
+[22:02:38] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:57} DEBUG - drdo database establishing in child_lectname file
+[22:02:38] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:58} DEBUG - child_lectname database connection establishing..in child_lectname FILE
+[22:02:38] {C:\Users\rtatt\AppData\Local\Programs\Python\Python39\lib\site-packages\mysql\connector\connection.py:235} DEBUG - new_auth_plugin: mysql_native_password
+[22:02:38] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:70} ERROR - child_lectname table in np db is connnected successfully in child_lectname file
+[22:14:46] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:50} INFO - Welcome To Intelligent Library Managment System
+[22:14:46] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:51} INFO - child_lectname file calling here
+[22:14:46] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:52} WARNING - check db connection
+[22:14:46] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:53} WARNING - chck db available
+[22:14:46] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:54} WARNING - check table available
+[22:14:46] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:55} WARNING - check server is on
+[22:14:46] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:56} WARNING - if error occured then remove try catch block
+[22:14:46] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:57} DEBUG - drdo database establishing in child_lectname file
+[22:14:46] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:58} DEBUG - child_lectname database connection establishing..in child_lectname FILE
+[22:14:46] {C:\Users\rtatt\AppData\Local\Programs\Python\Python39\lib\site-packages\mysql\connector\connection.py:235} DEBUG - new_auth_plugin: mysql_native_password
+[22:14:46] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:70} ERROR - child_lectname table in np db is connnected successfully in child_lectname file
+[22:17:50] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:50} INFO - Welcome To Intelligent Library Managment System
+[22:17:50] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:51} INFO - child_lectname file calling here
+[22:17:50] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:52} WARNING - check db connection
+[22:17:50] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:53} WARNING - chck db available
+[22:17:50] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:54} WARNING - check table available
+[22:17:50] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:55} WARNING - check server is on
+[22:17:50] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:56} WARNING - if error occured then remove try catch block
+[22:17:50] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:57} DEBUG - drdo database establishing in child_lectname file
+[22:17:50] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:58} DEBUG - child_lectname database connection establishing..in child_lectname FILE
+[22:17:50] {C:\Users\rtatt\AppData\Local\Programs\Python\Python39\lib\site-packages\mysql\connector\connection.py:235} DEBUG - new_auth_plugin: mysql_native_password
+[22:17:50] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:70} ERROR - child_lectname table in np db is connnected successfully in child_lectname file
+[22:20:50] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:50} INFO - Welcome To Intelligent Library Managment System
+[22:20:50] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:51} INFO - child_lectname file calling here
+[22:20:50] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:52} WARNING - check db connection
+[22:20:50] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:53} WARNING - chck db available
+[22:20:50] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:54} WARNING - check table available
+[22:20:50] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:55} WARNING - check server is on
+[22:20:50] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:56} WARNING - if error occured then remove try catch block
+[22:20:50] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:57} DEBUG - drdo database establishing in child_lectname file
+[22:20:50] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:58} DEBUG - child_lectname database connection establishing..in child_lectname FILE
+[22:20:50] {C:\Users\rtatt\AppData\Local\Programs\Python\Python39\lib\site-packages\mysql\connector\connection.py:235} DEBUG - new_auth_plugin: mysql_native_password
+[22:20:50] {C:\Users\rtatt\Downloads\Compressed\WorkStrurcture_3_june\WorkStrurcture\WorkStrurcture\nptel\NptelHttpLectname.py:71} ERROR - child_lectname table in np db is connnected successfully in child_lectname file

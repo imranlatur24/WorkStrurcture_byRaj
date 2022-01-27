@@ -1,0 +1,84 @@
+2021-11-24 01:39:06 INFO     Welcome To Intelligent Library Managment System
+2021-11-24 01:39:06 INFO     getcols_dspace file calling here
+2021-11-24 01:39:06 WARNING  check db connection
+2021-11-24 01:39:06 WARNING  chck db available
+2021-11-24 01:39:06 WARNING  check table available
+2021-11-24 01:39:06 WARNING  check server is on
+2021-11-24 01:39:06 WARNING  if error occured then remove try catch block
+2021-11-24 01:39:06 DEBUG    drdo database establishing in getcols_dspace file
+2021-11-24 01:39:06 DEBUG    getcols_janes database connection establishing..in getcols_dspace FILE
+2021-11-24 01:39:06 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-24 01:39:06 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-24 01:39:11 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-24 12:08:28 INFO     Welcome To Intelligent Library Managment System
+2021-11-24 12:08:28 INFO     getcols_dspace file calling here
+2021-11-24 12:08:28 WARNING  check db connection
+2021-11-24 12:08:28 WARNING  chck db available
+2021-11-24 12:08:28 WARNING  check table available
+2021-11-24 12:08:28 WARNING  check server is on
+2021-11-24 12:08:28 WARNING  if error occured then remove try catch block
+2021-11-24 12:08:28 DEBUG    drdo database establishing in getcols_dspace file
+2021-11-24 12:08:28 DEBUG    getcols_janes database connection establishing..in getcols_dspace FILE
+2021-11-24 12:08:28 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-24 12:08:28 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-24 12:08:35 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-24 13:07:59 INFO     Welcome To Intelligent Library Managment System
+2021-11-24 13:07:59 INFO     getcols_dspace file calling here
+2021-11-24 13:07:59 WARNING  check db connection
+2021-11-24 13:07:59 WARNING  chck db available
+2021-11-24 13:07:59 WARNING  check table available
+2021-11-24 13:07:59 WARNING  check server is on
+2021-11-24 13:07:59 WARNING  if error occured then remove try catch block
+2021-11-24 13:07:59 DEBUG    drdo database establishing in getcols_dspace file
+2021-11-24 13:07:59 DEBUG    getcols_janes database connection establishing..in getcols_dspace FILE
+2021-11-24 13:07:59 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-24 13:07:59 INFO     connected succesfully in 2_dpsace_merge_completed file
+2021-11-24 13:07:59 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-24 13:07:59 INFO     connected succesfully in 2_dpsace_merge_completed file
+2021-11-24 13:08:04 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-24 13:08:04 INFO     connected succesfully in 2_dpsace_merge_completed file
+2021-11-24 13:37:09 INFO     Welcome To Intelligent Library Managment System
+2021-11-24 13:37:09 INFO     getcols_dspace file calling here
+2021-11-24 13:37:09 WARNING  check db connection
+2021-11-24 13:37:09 WARNING  chck db available
+2021-11-24 13:37:09 WARNING  check table available
+2021-11-24 13:37:09 WARNING  check server is on
+2021-11-24 13:37:09 WARNING  if error occured then remove try catch block
+2021-11-24 13:37:09 DEBUG    drdo database establishing in getcols_dspace file
+2021-11-24 13:37:09 DEBUG    getcols_janes database connection establishing..in getcols_dspace FILE
+2021-11-24 13:37:09 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-24 13:37:09 INFO     connected succesfully in 2_dpsace_merge_completed file
+2021-11-24 13:37:09 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-24 13:37:09 INFO     connected succesfully in 2_dpsace_merge_completed file
+2021-11-24 13:37:30 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-24 13:37:30 INFO     connected succesfully in 2_dpsace_merge_completed file
+2021-11-24 14:10:52 INFO     Welcome To Intelligent Library Managment System
+2021-11-24 14:10:52 INFO     getcols_dspace file calling here
+2021-11-24 14:10:52 WARNING  check db connection
+2021-11-24 14:10:52 WARNING  chck db available
+2021-11-24 14:10:52 WARNING  check table available
+2021-11-24 14:10:52 WARNING  check server is on
+2021-11-24 14:10:52 WARNING  if error occured then remove try catch block
+2021-11-24 14:10:52 DEBUG    drdo database establishing in getcols_dspace file
+2021-11-24 14:10:52 DEBUG    getcols_janes database connection establishing..in getcols_dspace FILE
+2021-11-24 14:10:52 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-24 14:10:52 INFO     connected succesfully in 2_dpsace_merge_completed file
+2021-11-24 14:10:52 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-24 14:10:52 INFO     connected succesfully in 2_dpsace_merge_completed file
+2021-11-24 14:10:54 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-24 14:10:54 INFO     connected succesfully in 2_dpsace_merge_completed file
+2021-11-24 14:35:10 INFO     Welcome To Intelligent Library Managment System
+2021-11-24 14:35:10 INFO     getcols_dspace file calling here
+2021-11-24 14:35:10 WARNING  check db connection
+2021-11-24 14:35:10 WARNING  chck db available
+2021-11-24 14:35:10 WARNING  check table available
+2021-11-24 14:35:10 WARNING  check server is on
+2021-11-24 14:35:10 WARNING  if error occured then remove try catch block
+2021-11-24 14:35:10 DEBUG    drdo database establishing in getcols_dspace file
+2021-11-24 14:35:10 DEBUG    getcols_janes database connection establishing..in getcols_dspace FILE
+2021-11-24 14:35:10 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-24 14:35:10 INFO     connected succesfully in 2_dpsace_merge_completed file
+2021-11-24 14:35:10 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-24 14:35:10 INFO     connected succesfully in 2_dpsace_merge_completed file
+2021-11-24 14:35:12 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-24 14:35:12 INFO     connected succesfully in 2_dpsace_merge_completed file

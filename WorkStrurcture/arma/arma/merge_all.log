@@ -1,0 +1,66 @@
+2021-08-10 12:01:29 INFO     Welcome To Intelligent Library Managment System
+2021-08-10 12:01:29 INFO     autosuggestion_all file calling here
+2021-08-10 12:01:29 WARNING  check db connection
+2021-08-10 12:01:29 WARNING  chck db available
+2021-08-10 12:01:29 WARNING  check table available
+2021-08-10 12:01:29 WARNING  check server is on
+2021-08-10 12:01:29 WARNING  if error occured then remove try catch block
+2021-08-10 12:01:29 DEBUG    drdo database establishing in autosuggestion_all file
+2021-08-10 12:01:29 DEBUG    testing database connection establishing..in autosuggestion_all FILE
+2021-08-10 12:01:29 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-10 12:01:29 INFO     getcols table in testing db is connnected successfully in autosuggestion_all file
+2021-08-10 12:58:11 INFO     Welcome To Intelligent Library Managment System
+2021-08-10 12:58:11 INFO     autosuggestion_all file calling here
+2021-08-10 12:58:11 WARNING  check db connection
+2021-08-10 12:58:11 WARNING  chck db available
+2021-08-10 12:58:11 WARNING  check table available
+2021-08-10 12:58:11 WARNING  check server is on
+2021-08-10 12:58:11 WARNING  if error occured then remove try catch block
+2021-08-10 12:58:11 DEBUG    drdo database establishing in autosuggestion_all file
+2021-08-10 12:58:11 DEBUG    testing database connection establishing..in autosuggestion_all FILE
+2021-08-10 12:58:11 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-10 12:58:11 INFO     getcols table in testing db is connnected successfully in autosuggestion_all file
+2021-08-12 12:41:56 INFO     Welcome To Intelligent Library Managment System
+2021-08-12 12:41:56 INFO     autosuggestion_all file calling here
+2021-08-12 12:41:56 WARNING  check db connection
+2021-08-12 12:41:56 WARNING  chck db available
+2021-08-12 12:41:56 WARNING  check table available
+2021-08-12 12:41:56 WARNING  check server is on
+2021-08-12 12:41:56 WARNING  if error occured then remove try catch block
+2021-08-12 12:41:56 DEBUG    drdo database establishing in autosuggestion_all file
+2021-08-12 12:41:56 DEBUG    testing database connection establishing..in autosuggestion_all FILE
+2021-08-12 12:41:56 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-12 12:41:56 INFO     getcols table in testing db is connnected successfully in autosuggestion_all file
+2021-08-12 12:44:22 INFO     Welcome To Intelligent Library Managment System
+2021-08-12 12:44:22 INFO     autosuggestion_all file calling here
+2021-08-12 12:44:22 WARNING  check db connection
+2021-08-12 12:44:22 WARNING  chck db available
+2021-08-12 12:44:22 WARNING  check table available
+2021-08-12 12:44:22 WARNING  check server is on
+2021-08-12 12:44:22 WARNING  if error occured then remove try catch block
+2021-08-12 12:44:22 DEBUG    drdo database establishing in autosuggestion_all file
+2021-08-12 12:44:22 DEBUG    testing database connection establishing..in autosuggestion_all FILE
+2021-08-12 12:44:22 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-12 12:44:22 INFO     getcols table in testing db is connnected successfully in autosuggestion_all file
+2021-08-12 12:51:14 INFO     Welcome To Intelligent Library Managment System
+2021-08-12 12:51:14 INFO     autosuggestion_all file calling here
+2021-08-12 12:51:14 WARNING  check db connection
+2021-08-12 12:51:14 WARNING  chck db available
+2021-08-12 12:51:14 WARNING  check table available
+2021-08-12 12:51:14 WARNING  check server is on
+2021-08-12 12:51:14 WARNING  if error occured then remove try catch block
+2021-08-12 12:51:14 DEBUG    drdo database establishing in autosuggestion_all file
+2021-08-12 12:51:14 DEBUG    testing database connection establishing..in autosuggestion_all FILE
+2021-08-12 12:51:14 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-12 12:51:14 INFO     getcols table in testing db is connnected successfully in autosuggestion_all file
+2021-08-12 16:00:15 INFO     Welcome To Intelligent Library Managment System
+2021-08-12 16:00:15 INFO     autosuggestion_all file calling here
+2021-08-12 16:00:15 WARNING  check db connection
+2021-08-12 16:00:15 WARNING  chck db available
+2021-08-12 16:00:15 WARNING  check table available
+2021-08-12 16:00:15 WARNING  check server is on
+2021-08-12 16:00:15 WARNING  if error occured then remove try catch block
+2021-08-12 16:00:15 DEBUG    drdo database establishing in autosuggestion_all file
+2021-08-12 16:00:15 DEBUG    testing database connection establishing..in autosuggestion_all FILE
+2021-08-12 16:00:15 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-12 16:00:15 INFO     getcols table in testing db is connnected successfully in autosuggestion_all file

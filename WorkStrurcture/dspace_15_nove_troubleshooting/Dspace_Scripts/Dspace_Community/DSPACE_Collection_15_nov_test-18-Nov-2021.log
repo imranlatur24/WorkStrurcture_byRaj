@@ -1,0 +1,27 @@
+2021-11-18 14:01:40 INFO     Welcome To Intelligent Library Managment System
+2021-11-18 14:01:40 INFO     getcols_dspace file calling here
+2021-11-18 14:01:40 WARNING  check db connection
+2021-11-18 14:01:40 WARNING  chck db available
+2021-11-18 14:01:40 WARNING  check table available
+2021-11-18 14:01:40 WARNING  check server is on
+2021-11-18 14:01:40 WARNING  if error occured then remove try catch block
+2021-11-18 14:01:40 DEBUG    drdo database establishing in getcols_dspace file
+2021-11-18 14:01:40 DEBUG    getcols_janes database connection establishing..in getcols_dspace FILE
+2021-11-18 14:04:14 INFO     Welcome To Intelligent Library Managment System
+2021-11-18 14:04:14 INFO     getcols_dspace file calling here
+2021-11-18 14:04:14 WARNING  check db connection
+2021-11-18 14:04:14 WARNING  chck db available
+2021-11-18 14:04:14 WARNING  check table available
+2021-11-18 14:04:14 WARNING  check server is on
+2021-11-18 14:04:14 WARNING  if error occured then remove try catch block
+2021-11-18 14:04:14 DEBUG    drdo database establishing in getcols_dspace file
+2021-11-18 14:04:14 DEBUG    getcols_janes database connection establishing..in getcols_dspace FILE
+2021-11-18 14:08:26 INFO     Welcome To Intelligent Library Managment System
+2021-11-18 14:08:26 INFO     getcols_dspace file calling here
+2021-11-18 14:08:26 WARNING  check db connection
+2021-11-18 14:08:26 WARNING  chck db available
+2021-11-18 14:08:26 WARNING  check table available
+2021-11-18 14:08:26 WARNING  check server is on
+2021-11-18 14:08:26 WARNING  if error occured then remove try catch block
+2021-11-18 14:08:26 DEBUG    drdo database establishing in getcols_dspace file
+2021-11-18 14:08:26 DEBUG    getcols_janes database connection establishing..in getcols_dspace FILE

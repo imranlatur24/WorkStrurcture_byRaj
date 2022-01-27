@@ -1,0 +1,90 @@
+2021-08-09 11:58:06 INFO     Welcome To Intelligent Library Managment System
+2021-08-09 11:58:06 WARNING  LIBSYS_INSERT_DATA FILE CALLING FOR SCRAPPINGS
+2021-08-09 11:58:06 WARNING  check db connection
+2021-08-09 11:58:06 WARNING  chck db available
+2021-08-09 11:58:06 WARNING  check table available
+2021-08-09 11:58:06 WARNING  check server is on
+2021-08-09 11:58:06 WARNING  if error occured then remove try catch block
+2021-08-09 11:58:06 DEBUG    libsys database connection establishing..in LIBSYS INSERT DATA FILE
+2021-08-09 11:58:06 DEBUG    libys db connection establishing
+2021-08-09 11:58:06 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-09 11:59:03 INFO     Welcome To Intelligent Library Managment System
+2021-08-09 11:59:03 WARNING  LIBSYS_INSERT_DATA FILE CALLING FOR SCRAPPINGS
+2021-08-09 11:59:03 WARNING  check db connection
+2021-08-09 11:59:03 WARNING  chck db available
+2021-08-09 11:59:03 WARNING  check table available
+2021-08-09 11:59:03 WARNING  check server is on
+2021-08-09 11:59:03 WARNING  if error occured then remove try catch block
+2021-08-09 11:59:03 DEBUG    libsys database connection establishing..in LIBSYS INSERT DATA FILE
+2021-08-09 11:59:03 DEBUG    libys db connection establishing
+2021-08-09 12:03:34 INFO     Welcome To Intelligent Library Managment System
+2021-08-09 12:03:34 WARNING  LIBSYS_INSERT_DATA FILE CALLING FOR SCRAPPINGS
+2021-08-09 12:03:34 WARNING  check db connection
+2021-08-09 12:03:34 WARNING  chck db available
+2021-08-09 12:03:34 WARNING  check table available
+2021-08-09 12:03:34 WARNING  check server is on
+2021-08-09 12:03:34 WARNING  if error occured then remove try catch block
+2021-08-09 12:03:34 DEBUG    libsys database connection establishing..in LIBSYS INSERT DATA FILE
+2021-08-09 12:03:34 DEBUG    libys db connection establishing
+2021-08-09 12:03:59 INFO     Welcome To Intelligent Library Managment System
+2021-08-09 12:03:59 WARNING  LIBSYS_INSERT_DATA FILE CALLING FOR SCRAPPINGS
+2021-08-09 12:03:59 WARNING  check db connection
+2021-08-09 12:03:59 WARNING  chck db available
+2021-08-09 12:03:59 WARNING  check table available
+2021-08-09 12:03:59 WARNING  check server is on
+2021-08-09 12:03:59 WARNING  if error occured then remove try catch block
+2021-08-09 12:03:59 DEBUG    libsys database connection establishing..in LIBSYS INSERT DATA FILE
+2021-08-09 12:03:59 DEBUG    libys db connection establishing
+2021-08-09 12:03:59 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-09 12:05:37 INFO     Welcome To Intelligent Library Managment System
+2021-08-09 12:05:37 WARNING  LIBSYS_INSERT_DATA FILE CALLING FOR SCRAPPINGS
+2021-08-09 12:05:37 WARNING  check db connection
+2021-08-09 12:05:37 WARNING  chck db available
+2021-08-09 12:05:37 WARNING  check table available
+2021-08-09 12:05:37 WARNING  check server is on
+2021-08-09 12:05:37 WARNING  if error occured then remove try catch block
+2021-08-09 12:05:37 DEBUG    libsys database connection establishing..in LIBSYS INSERT DATA FILE
+2021-08-09 12:05:37 DEBUG    libys db connection establishing
+2021-08-09 12:05:37 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-09 12:05:37 DEBUG    libsys database connected successfully
+2021-08-09 12:05:37 DEBUG    LIBSYS db connection established..!
+2021-08-09 12:05:47 INFO     Welcome To Intelligent Library Managment System
+2021-08-09 12:05:47 WARNING  LIBSYS_INSERT_DATA FILE CALLING FOR SCRAPPINGS
+2021-08-09 12:05:47 WARNING  check db connection
+2021-08-09 12:05:47 WARNING  chck db available
+2021-08-09 12:05:47 WARNING  check table available
+2021-08-09 12:05:47 WARNING  check server is on
+2021-08-09 12:05:47 WARNING  if error occured then remove try catch block
+2021-08-09 12:05:47 DEBUG    libsys database connection establishing..in LIBSYS INSERT DATA FILE
+2021-08-09 12:05:47 DEBUG    libys db connection establishing
+2021-08-09 12:05:47 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-09 12:06:25 INFO     Welcome To Intelligent Library Managment System
+2021-08-09 12:06:25 WARNING  LIBSYS_INSERT_DATA FILE CALLING FOR SCRAPPINGS
+2021-08-09 12:06:25 WARNING  check db connection
+2021-08-09 12:06:25 WARNING  chck db available
+2021-08-09 12:06:25 WARNING  check table available
+2021-08-09 12:06:25 WARNING  check server is on
+2021-08-09 12:06:25 WARNING  if error occured then remove try catch block
+2021-08-09 12:06:25 DEBUG    libsys database connection establishing..in LIBSYS INSERT DATA FILE
+2021-08-09 12:06:25 DEBUG    libys db connection establishing
+2021-08-09 12:06:25 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-09 12:07:08 INFO     Welcome To Intelligent Library Managment System
+2021-08-09 12:07:08 WARNING  LIBSYS_INSERT_DATA FILE CALLING FOR SCRAPPINGS
+2021-08-09 12:07:08 WARNING  check db connection
+2021-08-09 12:07:08 WARNING  chck db available
+2021-08-09 12:07:08 WARNING  check table available
+2021-08-09 12:07:08 WARNING  check server is on
+2021-08-09 12:07:08 WARNING  if error occured then remove try catch block
+2021-08-09 12:07:08 DEBUG    libsys database connection establishing..in LIBSYS INSERT DATA FILE
+2021-08-09 12:07:08 DEBUG    libys db connection establishing
+2021-08-09 12:07:08 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-09 12:10:58 INFO     Welcome To Intelligent Library Managment System
+2021-08-09 12:10:58 WARNING  LIBSYS_INSERT_DATA FILE CALLING FOR SCRAPPINGS
+2021-08-09 12:10:58 WARNING  check db connection
+2021-08-09 12:10:58 WARNING  chck db available
+2021-08-09 12:10:58 WARNING  check table available
+2021-08-09 12:10:58 WARNING  check server is on
+2021-08-09 12:10:58 WARNING  if error occured then remove try catch block
+2021-08-09 12:10:58 DEBUG    libsys database connection establishing..in LIBSYS INSERT DATA FILE
+2021-08-09 12:10:58 DEBUG    libys db connection establishing
+2021-08-09 12:10:58 DEBUG    new_auth_plugin: mysql_native_password

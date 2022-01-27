@@ -1,0 +1,10 @@
+2021-06-09 14:52:45 INFO     Welcome To Intelligent Library Managment System
+2021-06-09 14:52:45 INFO     getcols_janes file calling here
+2021-06-09 14:52:45 WARNING  check db connection
+2021-06-09 14:52:45 WARNING  chck db available
+2021-06-09 14:52:45 WARNING  check table available
+2021-06-09 14:52:45 WARNING  check server is on
+2021-06-09 14:52:45 WARNING  if error occured then remove try catch block
+2021-06-09 14:52:45 DEBUG    drdo database establishing in getcols_janes file
+2021-06-09 14:52:45 DEBUG    getcols_janes database connection establishing..in getcols FILE
+2021-06-09 14:52:45 INFO     getcols table in testing db is connnected successfully in getcols_janes file

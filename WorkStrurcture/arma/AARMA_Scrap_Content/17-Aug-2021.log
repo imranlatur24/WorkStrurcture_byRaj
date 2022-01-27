@@ -1,0 +1,11 @@
+2021-08-17 11:44:57 INFO     Welcome To Intelligent Library Managment System
+2021-08-17 11:44:57 WARNING  ARMA_scrap_content FILE CALLING FOR SCRAPPINGS
+2021-08-17 11:44:57 WARNING  check db connection
+2021-08-17 11:44:57 WARNING  chck db available
+2021-08-17 11:44:57 WARNING  check table available
+2021-08-17 11:44:57 WARNING  check server is on
+2021-08-17 11:44:57 WARNING  if error occured then remove try catch block
+2021-08-17 11:44:57 WARNING  wordpress db connection is establishing in ARMABLOG_SCRAP CONTENT FILE
+2021-08-17 11:44:57 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-17 11:44:58 DEBUG    ARMA_scrap_content file wordpress connected
+2021-08-17 11:44:58 DEBUG    ARMA_scrap_content scrapping completed

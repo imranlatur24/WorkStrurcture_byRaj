@@ -1,0 +1,579 @@
+2021-08-17 12:23:43 INFO     Welcome To Intelligent Library Managment System
+2021-08-17 12:23:43 INFO     armablog_scrap_title file calling here
+2021-08-17 12:23:43 WARNING  check db connection
+2021-08-17 12:23:43 WARNING  chck db available
+2021-08-17 12:23:43 WARNING  check table available
+2021-08-17 12:23:43 WARNING  check server is on
+2021-08-17 12:23:43 WARNING  if error occured then remove try catch block
+2021-08-17 12:23:43 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-08-17 12:23:43 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-08-17 12:23:43 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-17 12:23:43 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-17 12:23:43 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-08-17 15:41:15 INFO     Welcome To Intelligent Library Managment System
+2021-08-17 15:41:15 INFO     armablog_scrap_title file calling here
+2021-08-17 15:41:15 WARNING  check db connection
+2021-08-17 15:41:15 WARNING  chck db available
+2021-08-17 15:41:15 WARNING  check table available
+2021-08-17 15:41:15 WARNING  check server is on
+2021-08-17 15:41:15 WARNING  if error occured then remove try catch block
+2021-08-17 15:41:15 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-08-17 15:41:15 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-08-17 15:41:15 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-17 15:41:15 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-17 15:41:15 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-08-18 03:01:12 INFO     Welcome To Intelligent Library Managment System
+2021-08-18 03:01:12 INFO     armablog_scrap_title file calling here
+2021-08-18 03:01:12 WARNING  check db connection
+2021-08-18 03:01:12 WARNING  chck db available
+2021-08-18 03:01:12 WARNING  check table available
+2021-08-18 03:01:12 WARNING  check server is on
+2021-08-18 03:01:12 WARNING  if error occured then remove try catch block
+2021-08-18 03:01:12 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-08-18 03:01:12 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-08-18 03:01:12 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-18 03:01:12 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-18 03:01:12 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-08-19 03:01:13 INFO     Welcome To Intelligent Library Managment System
+2021-08-19 03:01:13 INFO     armablog_scrap_title file calling here
+2021-08-19 03:01:13 WARNING  check db connection
+2021-08-19 03:01:13 WARNING  chck db available
+2021-08-19 03:01:13 WARNING  check table available
+2021-08-19 03:01:13 WARNING  check server is on
+2021-08-19 03:01:13 WARNING  if error occured then remove try catch block
+2021-08-19 03:01:13 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-08-19 03:01:13 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-08-19 03:01:13 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-19 03:01:13 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-19 03:01:13 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-08-20 03:01:13 INFO     Welcome To Intelligent Library Managment System
+2021-08-20 03:01:13 INFO     armablog_scrap_title file calling here
+2021-08-20 03:01:13 WARNING  check db connection
+2021-08-20 03:01:13 WARNING  chck db available
+2021-08-20 03:01:13 WARNING  check table available
+2021-08-20 03:01:13 WARNING  check server is on
+2021-08-20 03:01:13 WARNING  if error occured then remove try catch block
+2021-08-20 03:01:13 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-08-20 03:01:13 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-08-20 03:01:13 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-20 03:01:13 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-20 03:01:13 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-08-27 16:36:08 INFO     Welcome To Intelligent Library Managment System
+2021-08-27 16:36:08 INFO     armablog_scrap_title file calling here
+2021-08-27 16:36:08 WARNING  check db connection
+2021-08-27 16:36:08 WARNING  chck db available
+2021-08-27 16:36:08 WARNING  check table available
+2021-08-27 16:36:08 WARNING  check server is on
+2021-08-27 16:36:08 WARNING  if error occured then remove try catch block
+2021-08-27 16:36:08 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-08-27 16:36:08 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-08-27 16:36:08 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-27 16:36:08 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-27 16:36:08 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-08-31 09:04:11 INFO     Welcome To Intelligent Library Managment System
+2021-08-31 09:04:11 INFO     armablog_scrap_title file calling here
+2021-08-31 09:04:11 WARNING  check db connection
+2021-08-31 09:04:11 WARNING  chck db available
+2021-08-31 09:04:11 WARNING  check table available
+2021-08-31 09:04:11 WARNING  check server is on
+2021-08-31 09:04:11 WARNING  if error occured then remove try catch block
+2021-08-31 09:04:11 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-08-31 09:04:11 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-08-31 11:59:59 INFO     Welcome To Intelligent Library Managment System
+2021-08-31 11:59:59 INFO     armablog_scrap_title file calling here
+2021-08-31 11:59:59 WARNING  check db connection
+2021-08-31 11:59:59 WARNING  chck db available
+2021-08-31 11:59:59 WARNING  check table available
+2021-08-31 11:59:59 WARNING  check server is on
+2021-08-31 11:59:59 WARNING  if error occured then remove try catch block
+2021-08-31 11:59:59 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-08-31 11:59:59 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-08-31 11:59:59 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-31 11:59:59 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-31 11:59:59 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-09-01 09:20:20 INFO     Welcome To Intelligent Library Managment System
+2021-09-01 09:20:20 INFO     armablog_scrap_title file calling here
+2021-09-01 09:20:20 WARNING  check db connection
+2021-09-01 09:20:20 WARNING  chck db available
+2021-09-01 09:20:20 WARNING  check table available
+2021-09-01 09:20:20 WARNING  check server is on
+2021-09-01 09:20:20 WARNING  if error occured then remove try catch block
+2021-09-01 09:20:20 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-01 09:20:20 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-01 10:24:47 INFO     Welcome To Intelligent Library Managment System
+2021-09-01 10:24:47 INFO     armablog_scrap_title file calling here
+2021-09-01 10:24:47 WARNING  check db connection
+2021-09-01 10:24:47 WARNING  chck db available
+2021-09-01 10:24:47 WARNING  check table available
+2021-09-01 10:24:47 WARNING  check server is on
+2021-09-01 10:24:47 WARNING  if error occured then remove try catch block
+2021-09-01 10:24:47 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-01 10:24:47 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-01 10:24:47 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-01 10:24:47 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-01 10:24:47 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-09-01 12:40:17 INFO     Welcome To Intelligent Library Managment System
+2021-09-01 12:40:17 INFO     armablog_scrap_title file calling here
+2021-09-01 12:40:17 WARNING  check db connection
+2021-09-01 12:40:17 WARNING  chck db available
+2021-09-01 12:40:17 WARNING  check table available
+2021-09-01 12:40:17 WARNING  check server is on
+2021-09-01 12:40:17 WARNING  if error occured then remove try catch block
+2021-09-01 12:40:17 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-01 12:40:17 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-01 12:40:17 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-01 12:40:17 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-01 12:40:17 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-09-01 13:07:11 INFO     Welcome To Intelligent Library Managment System
+2021-09-01 13:07:11 INFO     armablog_scrap_title file calling here
+2021-09-01 13:07:11 WARNING  check db connection
+2021-09-01 13:07:11 WARNING  chck db available
+2021-09-01 13:07:11 WARNING  check table available
+2021-09-01 13:07:11 WARNING  check server is on
+2021-09-01 13:07:11 WARNING  if error occured then remove try catch block
+2021-09-01 13:07:11 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-01 13:07:11 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-01 13:07:11 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-01 13:07:11 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-01 13:07:11 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-09-02 11:17:19 INFO     Welcome To Intelligent Library Managment System
+2021-09-02 11:17:19 INFO     armablog_scrap_title file calling here
+2021-09-02 11:17:19 WARNING  check db connection
+2021-09-02 11:17:19 WARNING  chck db available
+2021-09-02 11:17:19 WARNING  check table available
+2021-09-02 11:17:19 WARNING  check server is on
+2021-09-02 11:17:19 WARNING  if error occured then remove try catch block
+2021-09-02 11:17:19 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-02 11:17:19 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-02 11:49:41 INFO     Welcome To Intelligent Library Managment System
+2021-09-02 11:49:41 INFO     armablog_scrap_title file calling here
+2021-09-02 11:49:41 WARNING  check db connection
+2021-09-02 11:49:41 WARNING  chck db available
+2021-09-02 11:49:41 WARNING  check table available
+2021-09-02 11:49:41 WARNING  check server is on
+2021-09-02 11:49:41 WARNING  if error occured then remove try catch block
+2021-09-02 11:49:41 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-02 11:49:41 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-02 15:38:21 INFO     Welcome To Intelligent Library Managment System
+2021-09-02 15:38:21 INFO     armablog_scrap_title file calling here
+2021-09-02 15:38:21 WARNING  check db connection
+2021-09-02 15:38:21 WARNING  chck db available
+2021-09-02 15:38:21 WARNING  check table available
+2021-09-02 15:38:21 WARNING  check server is on
+2021-09-02 15:38:21 WARNING  if error occured then remove try catch block
+2021-09-02 15:38:21 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-02 15:38:21 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-03 09:39:40 INFO     Welcome To Intelligent Library Managment System
+2021-09-03 09:39:40 INFO     armablog_scrap_title file calling here
+2021-09-03 09:39:40 WARNING  check db connection
+2021-09-03 09:39:40 WARNING  chck db available
+2021-09-03 09:39:40 WARNING  check table available
+2021-09-03 09:39:40 WARNING  check server is on
+2021-09-03 09:39:40 WARNING  if error occured then remove try catch block
+2021-09-03 09:39:40 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-03 09:39:40 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-03 09:39:40 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-03 09:39:40 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-03 09:39:40 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-09-03 15:19:39 INFO     Welcome To Intelligent Library Managment System
+2021-09-03 15:19:39 INFO     armablog_scrap_title file calling here
+2021-09-03 15:19:39 WARNING  check db connection
+2021-09-03 15:19:39 WARNING  chck db available
+2021-09-03 15:19:39 WARNING  check table available
+2021-09-03 15:19:39 WARNING  check server is on
+2021-09-03 15:19:39 WARNING  if error occured then remove try catch block
+2021-09-03 15:19:39 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-03 15:19:39 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-03 15:19:39 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-03 15:19:39 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-03 15:19:39 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-09-07 09:57:58 INFO     Welcome To Intelligent Library Managment System
+2021-09-07 09:57:58 INFO     armablog_scrap_title file calling here
+2021-09-07 09:57:58 WARNING  check db connection
+2021-09-07 09:57:58 WARNING  chck db available
+2021-09-07 09:57:58 WARNING  check table available
+2021-09-07 09:57:58 WARNING  check server is on
+2021-09-07 09:57:58 WARNING  if error occured then remove try catch block
+2021-09-07 09:57:58 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-07 09:57:58 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-07 11:35:58 INFO     Welcome To Intelligent Library Managment System
+2021-09-07 11:35:58 INFO     armablog_scrap_title file calling here
+2021-09-07 11:35:58 WARNING  check db connection
+2021-09-07 11:35:58 WARNING  chck db available
+2021-09-07 11:35:58 WARNING  check table available
+2021-09-07 11:35:58 WARNING  check server is on
+2021-09-07 11:35:58 WARNING  if error occured then remove try catch block
+2021-09-07 11:35:58 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-07 11:35:58 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-08 03:01:13 INFO     Welcome To Intelligent Library Managment System
+2021-09-08 03:01:14 INFO     armablog_scrap_title file calling here
+2021-09-08 03:01:14 WARNING  check db connection
+2021-09-08 03:01:14 WARNING  chck db available
+2021-09-08 03:01:14 WARNING  check table available
+2021-09-08 03:01:14 WARNING  check server is on
+2021-09-08 03:01:14 WARNING  if error occured then remove try catch block
+2021-09-08 03:01:14 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-08 03:01:14 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-08 12:44:53 INFO     Welcome To Intelligent Library Managment System
+2021-09-08 12:44:53 INFO     armablog_scrap_title file calling here
+2021-09-08 12:44:53 WARNING  check db connection
+2021-09-08 12:44:53 WARNING  chck db available
+2021-09-08 12:44:53 WARNING  check table available
+2021-09-08 12:44:53 WARNING  check server is on
+2021-09-08 12:44:53 WARNING  if error occured then remove try catch block
+2021-09-08 12:44:53 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-08 12:44:53 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-09 03:01:13 INFO     Welcome To Intelligent Library Managment System
+2021-09-09 03:01:13 INFO     armablog_scrap_title file calling here
+2021-09-09 03:01:13 WARNING  check db connection
+2021-09-09 03:01:13 WARNING  chck db available
+2021-09-09 03:01:13 WARNING  check table available
+2021-09-09 03:01:13 WARNING  check server is on
+2021-09-09 03:01:13 WARNING  if error occured then remove try catch block
+2021-09-09 03:01:13 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-09 03:01:13 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-09 03:01:13 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-09 03:01:13 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-09 03:01:13 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-09-13 03:01:13 INFO     Welcome To Intelligent Library Managment System
+2021-09-13 03:01:14 INFO     armablog_scrap_title file calling here
+2021-09-13 03:01:14 WARNING  check db connection
+2021-09-13 03:01:14 WARNING  chck db available
+2021-09-13 03:01:14 WARNING  check table available
+2021-09-13 03:01:14 WARNING  check server is on
+2021-09-13 03:01:14 WARNING  if error occured then remove try catch block
+2021-09-13 03:01:14 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-13 03:01:14 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-13 03:01:14 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-13 03:01:14 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-13 03:01:14 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-09-13 10:27:58 INFO     Welcome To Intelligent Library Managment System
+2021-09-13 10:27:58 INFO     armablog_scrap_title file calling here
+2021-09-13 10:27:58 WARNING  check db connection
+2021-09-13 10:27:58 WARNING  chck db available
+2021-09-13 10:27:58 WARNING  check table available
+2021-09-13 10:27:58 WARNING  check server is on
+2021-09-13 10:27:58 WARNING  if error occured then remove try catch block
+2021-09-13 10:27:58 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-13 10:27:58 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-13 10:27:58 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-13 10:27:58 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-13 10:27:58 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-09-14 03:01:13 INFO     Welcome To Intelligent Library Managment System
+2021-09-14 03:01:13 INFO     armablog_scrap_title file calling here
+2021-09-14 03:01:13 WARNING  check db connection
+2021-09-14 03:01:13 WARNING  chck db available
+2021-09-14 03:01:13 WARNING  check table available
+2021-09-14 03:01:13 WARNING  check server is on
+2021-09-14 03:01:13 WARNING  if error occured then remove try catch block
+2021-09-14 03:01:13 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-14 03:01:13 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-14 03:01:13 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-14 03:01:13 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-14 03:01:13 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-09-14 12:45:42 INFO     Welcome To Intelligent Library Managment System
+2021-09-14 12:45:42 INFO     armablog_scrap_title file calling here
+2021-09-14 12:45:42 WARNING  check db connection
+2021-09-14 12:45:42 WARNING  chck db available
+2021-09-14 12:45:42 WARNING  check table available
+2021-09-14 12:45:42 WARNING  check server is on
+2021-09-14 12:45:42 WARNING  if error occured then remove try catch block
+2021-09-14 12:45:42 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-14 12:45:42 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-14 12:45:42 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-14 12:45:42 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-14 12:45:42 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-09-15 03:01:13 INFO     Welcome To Intelligent Library Managment System
+2021-09-15 03:01:13 INFO     armablog_scrap_title file calling here
+2021-09-15 03:01:13 WARNING  check db connection
+2021-09-15 03:01:13 WARNING  chck db available
+2021-09-15 03:01:13 WARNING  check table available
+2021-09-15 03:01:13 WARNING  check server is on
+2021-09-15 03:01:13 WARNING  if error occured then remove try catch block
+2021-09-15 03:01:13 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-15 03:01:13 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-15 03:01:14 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-15 03:01:14 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-15 03:01:14 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-09-16 03:01:13 INFO     Welcome To Intelligent Library Managment System
+2021-09-16 03:01:13 INFO     armablog_scrap_title file calling here
+2021-09-16 03:01:14 WARNING  check db connection
+2021-09-16 03:01:14 WARNING  chck db available
+2021-09-16 03:01:14 WARNING  check table available
+2021-09-16 03:01:14 WARNING  check server is on
+2021-09-16 03:01:14 WARNING  if error occured then remove try catch block
+2021-09-16 03:01:14 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-16 03:01:14 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-16 03:01:14 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-16 03:01:14 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-16 03:01:14 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-09-17 03:01:14 INFO     Welcome To Intelligent Library Managment System
+2021-09-17 03:01:14 INFO     armablog_scrap_title file calling here
+2021-09-17 03:01:14 WARNING  check db connection
+2021-09-17 03:01:14 WARNING  chck db available
+2021-09-17 03:01:14 WARNING  check table available
+2021-09-17 03:01:14 WARNING  check server is on
+2021-09-17 03:01:14 WARNING  if error occured then remove try catch block
+2021-09-17 03:01:14 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-17 03:01:14 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-17 03:01:14 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-17 03:01:14 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-17 03:01:14 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-09-17 16:27:57 INFO     Welcome To Intelligent Library Managment System
+2021-09-17 16:27:57 INFO     armablog_scrap_title file calling here
+2021-09-17 16:27:57 WARNING  check db connection
+2021-09-17 16:27:57 WARNING  chck db available
+2021-09-17 16:27:57 WARNING  check table available
+2021-09-17 16:27:57 WARNING  check server is on
+2021-09-17 16:27:57 WARNING  if error occured then remove try catch block
+2021-09-17 16:27:57 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-17 16:27:57 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-17 16:27:57 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-17 16:27:57 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-17 16:27:57 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-09-18 03:01:14 INFO     Welcome To Intelligent Library Managment System
+2021-09-18 03:01:14 INFO     armablog_scrap_title file calling here
+2021-09-18 03:01:14 WARNING  check db connection
+2021-09-18 03:01:14 WARNING  chck db available
+2021-09-18 03:01:14 WARNING  check table available
+2021-09-18 03:01:14 WARNING  check server is on
+2021-09-18 03:01:14 WARNING  if error occured then remove try catch block
+2021-09-18 03:01:14 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-18 03:01:14 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-18 03:01:14 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-18 03:01:14 DEBUG    new_auth_plugin: mysql_native_password
+2021-09-18 03:01:14 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-09-24 10:12:23 INFO     Welcome To Intelligent Library Managment System
+2021-09-24 10:12:23 INFO     armablog_scrap_title file calling here
+2021-09-24 10:12:23 WARNING  check db connection
+2021-09-24 10:12:23 WARNING  chck db available
+2021-09-24 10:12:23 WARNING  check table available
+2021-09-24 10:12:23 WARNING  check server is on
+2021-09-24 10:12:23 WARNING  if error occured then remove try catch block
+2021-09-24 10:12:23 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-24 10:12:23 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-24 12:34:17 INFO     Welcome To Intelligent Library Managment System
+2021-09-24 12:34:17 INFO     armablog_scrap_title file calling here
+2021-09-24 12:34:17 WARNING  check db connection
+2021-09-24 12:34:17 WARNING  chck db available
+2021-09-24 12:34:17 WARNING  check table available
+2021-09-24 12:34:17 WARNING  check server is on
+2021-09-24 12:34:17 WARNING  if error occured then remove try catch block
+2021-09-24 12:34:17 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-24 12:34:17 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-24 16:22:07 INFO     Welcome To Intelligent Library Managment System
+2021-09-24 16:22:07 INFO     armablog_scrap_title file calling here
+2021-09-24 16:22:07 WARNING  check db connection
+2021-09-24 16:22:07 WARNING  chck db available
+2021-09-24 16:22:07 WARNING  check table available
+2021-09-24 16:22:07 WARNING  check server is on
+2021-09-24 16:22:07 WARNING  if error occured then remove try catch block
+2021-09-24 16:22:07 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-24 16:22:07 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-09-27 12:29:39 INFO     Welcome To Intelligent Library Managment System
+2021-09-27 12:29:39 INFO     armablog_scrap_title file calling here
+2021-09-27 12:29:39 WARNING  check db connection
+2021-09-27 12:29:39 WARNING  chck db available
+2021-09-27 12:29:39 WARNING  check table available
+2021-09-27 12:29:39 WARNING  check server is on
+2021-09-27 12:29:39 WARNING  if error occured then remove try catch block
+2021-09-27 12:29:39 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-09-27 12:29:39 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-10-05 13:51:28 INFO     Welcome To Intelligent Library Managment System
+2021-10-05 13:51:28 INFO     armablog_scrap_title file calling here
+2021-10-05 13:51:28 WARNING  check db connection
+2021-10-05 13:51:28 WARNING  chck db available
+2021-10-05 13:51:28 WARNING  check table available
+2021-10-05 13:51:28 WARNING  check server is on
+2021-10-05 13:51:28 WARNING  if error occured then remove try catch block
+2021-10-05 13:51:28 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-10-05 13:51:28 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-10-05 14:15:45 INFO     Welcome To Intelligent Library Managment System
+2021-10-05 14:15:45 INFO     armablog_scrap_title file calling here
+2021-10-05 14:15:45 WARNING  check db connection
+2021-10-05 14:15:45 WARNING  chck db available
+2021-10-05 14:15:45 WARNING  check table available
+2021-10-05 14:15:45 WARNING  check server is on
+2021-10-05 14:15:45 WARNING  if error occured then remove try catch block
+2021-10-05 14:15:45 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-10-05 14:15:45 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-10-06 12:33:10 INFO     Welcome To Intelligent Library Managment System
+2021-10-06 12:33:10 INFO     armablog_scrap_title file calling here
+2021-10-06 12:33:10 WARNING  check db connection
+2021-10-06 12:33:10 WARNING  chck db available
+2021-10-06 12:33:10 WARNING  check table available
+2021-10-06 12:33:10 WARNING  check server is on
+2021-10-06 12:33:10 WARNING  if error occured then remove try catch block
+2021-10-06 12:33:10 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-10-06 12:33:10 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-10-08 03:01:13 INFO     Welcome To Intelligent Library Managment System
+2021-10-08 03:01:13 INFO     armablog_scrap_title file calling here
+2021-10-08 03:01:13 WARNING  check db connection
+2021-10-08 03:01:13 WARNING  chck db available
+2021-10-08 03:01:13 WARNING  check table available
+2021-10-08 03:01:13 WARNING  check server is on
+2021-10-08 03:01:13 WARNING  if error occured then remove try catch block
+2021-10-08 03:01:13 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-10-08 03:01:13 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-10-08 03:01:13 DEBUG    new_auth_plugin: mysql_native_password
+2021-10-08 03:01:13 DEBUG    new_auth_plugin: mysql_native_password
+2021-10-08 03:01:13 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-10-11 09:56:41 INFO     Welcome To Intelligent Library Managment System
+2021-10-11 09:56:41 INFO     armablog_scrap_title file calling here
+2021-10-11 09:56:41 WARNING  check db connection
+2021-10-11 09:56:41 WARNING  chck db available
+2021-10-11 09:56:41 WARNING  check table available
+2021-10-11 09:56:41 WARNING  check server is on
+2021-10-11 09:56:41 WARNING  if error occured then remove try catch block
+2021-10-11 09:56:41 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-10-11 09:56:41 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-10-11 09:56:41 DEBUG    new_auth_plugin: mysql_native_password
+2021-10-11 09:56:42 DEBUG    new_auth_plugin: mysql_native_password
+2021-10-11 09:56:42 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-10-13 03:01:14 INFO     Welcome To Intelligent Library Managment System
+2021-10-13 03:01:14 INFO     armablog_scrap_title file calling here
+2021-10-13 03:01:14 WARNING  check db connection
+2021-10-13 03:01:14 WARNING  chck db available
+2021-10-13 03:01:14 WARNING  check table available
+2021-10-13 03:01:14 WARNING  check server is on
+2021-10-13 03:01:14 WARNING  if error occured then remove try catch block
+2021-10-13 03:01:14 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-10-13 03:01:14 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-10-13 03:01:14 DEBUG    new_auth_plugin: mysql_native_password
+2021-10-13 03:01:14 DEBUG    new_auth_plugin: mysql_native_password
+2021-10-13 03:01:14 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-10-18 15:16:04 INFO     Welcome To Intelligent Library Managment System
+2021-10-18 15:16:04 INFO     armablog_scrap_title file calling here
+2021-10-18 15:16:04 WARNING  check db connection
+2021-10-18 15:16:04 WARNING  chck db available
+2021-10-18 15:16:04 WARNING  check table available
+2021-10-18 15:16:04 WARNING  check server is on
+2021-10-18 15:16:04 WARNING  if error occured then remove try catch block
+2021-10-18 15:16:04 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-10-18 15:16:04 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-10-18 15:16:04 DEBUG    new_auth_plugin: mysql_native_password
+2021-10-18 15:16:04 DEBUG    new_auth_plugin: mysql_native_password
+2021-10-18 15:16:04 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-10-19 12:37:26 INFO     Welcome To Intelligent Library Managment System
+2021-10-19 12:37:26 INFO     armablog_scrap_title file calling here
+2021-10-19 12:37:26 WARNING  check db connection
+2021-10-19 12:37:26 WARNING  chck db available
+2021-10-19 12:37:26 WARNING  check table available
+2021-10-19 12:37:26 WARNING  check server is on
+2021-10-19 12:37:26 WARNING  if error occured then remove try catch block
+2021-10-19 12:37:26 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-10-19 12:37:26 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-10-19 12:37:26 DEBUG    new_auth_plugin: mysql_native_password
+2021-10-19 12:37:26 DEBUG    new_auth_plugin: mysql_native_password
+2021-10-19 12:37:26 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-10-20 12:18:35 INFO     Welcome To Intelligent Library Managment System
+2021-10-20 12:18:35 INFO     armablog_scrap_title file calling here
+2021-10-20 12:18:35 WARNING  check db connection
+2021-10-20 12:18:35 WARNING  chck db available
+2021-10-20 12:18:35 WARNING  check table available
+2021-10-20 12:18:35 WARNING  check server is on
+2021-10-20 12:18:35 WARNING  if error occured then remove try catch block
+2021-10-20 12:18:35 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-10-20 12:18:35 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-10-21 03:01:14 INFO     Welcome To Intelligent Library Managment System
+2021-10-21 03:01:14 INFO     armablog_scrap_title file calling here
+2021-10-21 03:01:14 WARNING  check db connection
+2021-10-21 03:01:14 WARNING  chck db available
+2021-10-21 03:01:14 WARNING  check table available
+2021-10-21 03:01:14 WARNING  check server is on
+2021-10-21 03:01:14 WARNING  if error occured then remove try catch block
+2021-10-21 03:01:14 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-10-21 03:01:14 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-10-21 03:01:14 DEBUG    new_auth_plugin: mysql_native_password
+2021-10-21 03:01:14 DEBUG    new_auth_plugin: mysql_native_password
+2021-10-21 03:01:14 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-10-25 09:20:12 INFO     Welcome To Intelligent Library Managment System
+2021-10-25 09:20:12 INFO     armablog_scrap_title file calling here
+2021-10-25 09:20:12 WARNING  check db connection
+2021-10-25 09:20:12 WARNING  chck db available
+2021-10-25 09:20:12 WARNING  check table available
+2021-10-25 09:20:12 WARNING  check server is on
+2021-10-25 09:20:12 WARNING  if error occured then remove try catch block
+2021-10-25 09:20:12 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-10-25 09:20:12 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-10-25 09:20:12 DEBUG    new_auth_plugin: mysql_native_password
+2021-10-25 09:20:12 DEBUG    new_auth_plugin: mysql_native_password
+2021-10-25 09:20:12 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-11-01 10:23:48 INFO     Welcome To Intelligent Library Managment System
+2021-11-01 10:23:48 INFO     armablog_scrap_title file calling here
+2021-11-01 10:23:48 WARNING  check db connection
+2021-11-01 10:23:48 WARNING  chck db available
+2021-11-01 10:23:48 WARNING  check table available
+2021-11-01 10:23:48 WARNING  check server is on
+2021-11-01 10:23:48 WARNING  if error occured then remove try catch block
+2021-11-01 10:23:48 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-11-01 10:23:48 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-11-01 10:23:48 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-01 10:23:49 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-01 10:23:49 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-11-03 03:01:13 INFO     Welcome To Intelligent Library Managment System
+2021-11-03 03:01:13 INFO     armablog_scrap_title file calling here
+2021-11-03 03:01:13 WARNING  check db connection
+2021-11-03 03:01:13 WARNING  chck db available
+2021-11-03 03:01:13 WARNING  check table available
+2021-11-03 03:01:13 WARNING  check server is on
+2021-11-03 03:01:13 WARNING  if error occured then remove try catch block
+2021-11-03 03:01:13 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-11-03 03:01:13 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-11-03 03:01:13 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-03 03:01:13 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-03 03:01:13 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-11-09 03:01:14 INFO     Welcome To Intelligent Library Managment System
+2021-11-09 03:01:14 INFO     armablog_scrap_title file calling here
+2021-11-09 03:01:14 WARNING  check db connection
+2021-11-09 03:01:14 WARNING  chck db available
+2021-11-09 03:01:14 WARNING  check table available
+2021-11-09 03:01:14 WARNING  check server is on
+2021-11-09 03:01:14 WARNING  if error occured then remove try catch block
+2021-11-09 03:01:14 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-11-09 03:01:14 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-11-09 09:44:41 INFO     Welcome To Intelligent Library Managment System
+2021-11-09 09:44:41 INFO     armablog_scrap_title file calling here
+2021-11-09 09:44:41 WARNING  check db connection
+2021-11-09 09:44:41 WARNING  chck db available
+2021-11-09 09:44:41 WARNING  check table available
+2021-11-09 09:44:41 WARNING  check server is on
+2021-11-09 09:44:41 WARNING  if error occured then remove try catch block
+2021-11-09 09:44:41 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-11-09 09:44:41 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-11-09 09:44:41 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-09 09:44:41 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-09 09:44:41 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-11-15 10:32:02 INFO     Welcome To Intelligent Library Managment System
+2021-11-15 10:32:02 INFO     armablog_scrap_title file calling here
+2021-11-15 10:32:02 WARNING  check db connection
+2021-11-15 10:32:02 WARNING  chck db available
+2021-11-15 10:32:02 WARNING  check table available
+2021-11-15 10:32:02 WARNING  check server is on
+2021-11-15 10:32:02 WARNING  if error occured then remove try catch block
+2021-11-15 10:32:02 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-11-15 10:32:02 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-11-22 12:09:51 INFO     Welcome To Intelligent Library Managment System
+2021-11-22 12:09:51 INFO     armablog_scrap_title file calling here
+2021-11-22 12:09:51 WARNING  check db connection
+2021-11-22 12:09:51 WARNING  chck db available
+2021-11-22 12:09:51 WARNING  check table available
+2021-11-22 12:09:51 WARNING  check server is on
+2021-11-22 12:09:51 WARNING  if error occured then remove try catch block
+2021-11-22 12:09:51 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-11-22 12:09:51 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-11-22 12:09:51 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-22 12:09:51 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-22 12:09:51 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-11-24 11:52:14 INFO     Welcome To Intelligent Library Managment System
+2021-11-24 11:52:14 INFO     armablog_scrap_title file calling here
+2021-11-24 11:52:14 WARNING  check db connection
+2021-11-24 11:52:14 WARNING  chck db available
+2021-11-24 11:52:14 WARNING  check table available
+2021-11-24 11:52:14 WARNING  check server is on
+2021-11-24 11:52:14 WARNING  if error occured then remove try catch block
+2021-11-24 11:52:14 DEBUG    drdo database establishing in armablog_scrap_title file
+2021-11-24 11:52:14 DEBUG    armablog database connection establishing..in armablog_scrap_title FILE
+2021-11-24 11:52:14 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-24 11:52:14 DEBUG    new_auth_plugin: mysql_native_password
+2021-11-24 11:52:14 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file

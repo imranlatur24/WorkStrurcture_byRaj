@@ -1,0 +1,66 @@
+2021-08-10 11:38:37 INFO     Welcome To Intelligent Library Managment System
+2021-08-10 11:38:37 INFO     armablog merge file calling here
+2021-08-10 11:38:37 WARNING  check db connection
+2021-08-10 11:38:37 WARNING  chck db available
+2021-08-10 11:38:37 WARNING  check table available
+2021-08-10 11:38:37 WARNING  check server is on
+2021-08-10 11:38:37 WARNING  if error occured then remove try catch block
+2021-08-10 11:38:37 WARNING  drdo db connection is establishing in ARMABLOG_MERGE
+2021-08-10 11:38:37 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-10 11:38:38 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-10 11:38:38 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-08-10 12:52:14 INFO     Welcome To Intelligent Library Managment System
+2021-08-10 12:52:14 INFO     armablog merge file calling here
+2021-08-10 12:52:14 WARNING  check db connection
+2021-08-10 12:52:14 WARNING  chck db available
+2021-08-10 12:52:14 WARNING  check table available
+2021-08-10 12:52:14 WARNING  check server is on
+2021-08-10 12:52:14 WARNING  if error occured then remove try catch block
+2021-08-10 12:52:14 WARNING  drdo db connection is establishing in ARMABLOG_MERGE
+2021-08-10 12:52:14 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-10 12:52:14 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-10 12:52:14 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-08-10 12:54:17 INFO     Welcome To Intelligent Library Managment System
+2021-08-10 12:54:17 INFO     armablog merge file calling here
+2021-08-10 12:54:17 WARNING  check db connection
+2021-08-10 12:54:17 WARNING  chck db available
+2021-08-10 12:54:17 WARNING  check table available
+2021-08-10 12:54:17 WARNING  check server is on
+2021-08-10 12:54:17 WARNING  if error occured then remove try catch block
+2021-08-10 12:54:17 WARNING  drdo db connection is establishing in ARMABLOG_MERGE
+2021-08-10 12:54:17 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-10 12:54:17 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-10 12:54:17 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-08-12 12:49:47 INFO     Welcome To Intelligent Library Managment System
+2021-08-12 12:49:47 INFO     armablog merge file calling here
+2021-08-12 12:49:47 WARNING  check db connection
+2021-08-12 12:49:47 WARNING  chck db available
+2021-08-12 12:49:47 WARNING  check table available
+2021-08-12 12:49:47 WARNING  check server is on
+2021-08-12 12:49:47 WARNING  if error occured then remove try catch block
+2021-08-12 12:49:47 WARNING  drdo db connection is establishing in ARMABLOG_MERGE
+2021-08-12 12:49:47 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-12 12:49:47 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-12 12:49:47 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-08-12 14:52:13 INFO     Welcome To Intelligent Library Managment System
+2021-08-12 14:52:13 INFO     armablog merge file calling here
+2021-08-12 14:52:13 WARNING  check db connection
+2021-08-12 14:52:13 WARNING  chck db available
+2021-08-12 14:52:13 WARNING  check table available
+2021-08-12 14:52:13 WARNING  check server is on
+2021-08-12 14:52:13 WARNING  if error occured then remove try catch block
+2021-08-12 14:52:13 WARNING  drdo db connection is establishing in ARMABLOG_MERGE
+2021-08-12 14:52:13 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-12 14:52:13 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-12 14:52:13 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file
+2021-08-12 16:00:12 INFO     Welcome To Intelligent Library Managment System
+2021-08-12 16:00:12 INFO     armablog merge file calling here
+2021-08-12 16:00:12 WARNING  check db connection
+2021-08-12 16:00:12 WARNING  chck db available
+2021-08-12 16:00:12 WARNING  check table available
+2021-08-12 16:00:12 WARNING  check server is on
+2021-08-12 16:00:12 WARNING  if error occured then remove try catch block
+2021-08-12 16:00:12 WARNING  drdo db connection is establishing in ARMABLOG_MERGE
+2021-08-12 16:00:12 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-12 16:00:12 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-12 16:00:12 INFO     testing armablog db connected successfully in ARMA_SCRAP_FILEPATH file

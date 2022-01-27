@@ -1,0 +1,31 @@
+2021-08-09 11:53:38 INFO     Welcome To Intelligent Library Managment System
+2021-08-09 11:53:38 WARNING  ARMA_scrap_content FILE CALLING FOR SCRAPPINGS
+2021-08-09 11:53:38 WARNING  check db connection
+2021-08-09 11:53:38 WARNING  chck db available
+2021-08-09 11:53:38 WARNING  check table available
+2021-08-09 11:53:38 WARNING  check server is on
+2021-08-09 11:53:38 WARNING  if error occured then remove try catch block
+2021-08-09 11:53:38 WARNING  wordpress db connection is establishing in ARMABLOG_SCRAP CONTENT FILE
+2021-08-09 11:53:38 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-09 11:53:38 DEBUG    ARMA_scrap_content file wordpress connected
+2021-08-09 11:53:39 DEBUG    ARMA_scrap_content scrapping completed
+2021-08-09 12:28:40 INFO     Welcome To Intelligent Library Managment System
+2021-08-09 12:28:40 WARNING  ARMA_scrap_content FILE CALLING FOR SCRAPPINGS
+2021-08-09 12:28:40 WARNING  check db connection
+2021-08-09 12:28:40 WARNING  chck db available
+2021-08-09 12:28:40 WARNING  check table available
+2021-08-09 12:28:40 WARNING  check server is on
+2021-08-09 12:28:40 WARNING  if error occured then remove try catch block
+2021-08-09 12:28:40 WARNING  wordpress db connection is establishing in ARMABLOG_SCRAP CONTENT FILE
+2021-08-09 12:28:40 DEBUG    ARMA_scrap_content file db connected
+2021-08-09 12:29:24 INFO     Welcome To Intelligent Library Managment System
+2021-08-09 12:29:24 WARNING  ARMA_scrap_content FILE CALLING FOR SCRAPPINGS
+2021-08-09 12:29:24 WARNING  check db connection
+2021-08-09 12:29:24 WARNING  chck db available
+2021-08-09 12:29:24 WARNING  check table available
+2021-08-09 12:29:24 WARNING  check server is on
+2021-08-09 12:29:24 WARNING  if error occured then remove try catch block
+2021-08-09 12:29:24 WARNING  wordpress db connection is establishing in ARMABLOG_SCRAP CONTENT FILE
+2021-08-09 12:29:24 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-09 12:29:24 DEBUG    ARMA_scrap_content file wordpress connected
+2021-08-09 12:29:24 DEBUG    ARMA_scrap_content scrapping completed

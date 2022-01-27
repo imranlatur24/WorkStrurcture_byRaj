@@ -1,0 +1,60 @@
+2021-08-10 11:39:19 INFO     Welcome To Intelligent Library Managment System
+2021-08-10 11:39:19 INFO     armablog merge file calling here
+2021-08-10 11:39:19 WARNING  check db connection
+2021-08-10 11:39:19 WARNING  chck db available
+2021-08-10 11:39:19 WARNING  check table available
+2021-08-10 11:39:19 WARNING  check server is on
+2021-08-10 11:39:19 WARNING  if error occured then remove try catch block
+2021-08-10 11:39:19 WARNING  testing db connection is establishing in ARMABLOG_MERGE
+2021-08-10 11:39:19 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-10 11:39:19 DEBUG    testing amrablog merge file db connected
+2021-08-10 12:52:22 INFO     Welcome To Intelligent Library Managment System
+2021-08-10 12:52:22 INFO     armablog merge file calling here
+2021-08-10 12:52:22 WARNING  check db connection
+2021-08-10 12:52:22 WARNING  chck db available
+2021-08-10 12:52:22 WARNING  check table available
+2021-08-10 12:52:22 WARNING  check server is on
+2021-08-10 12:52:22 WARNING  if error occured then remove try catch block
+2021-08-10 12:52:22 WARNING  testing db connection is establishing in ARMABLOG_MERGE
+2021-08-10 12:52:22 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-10 12:52:22 DEBUG    testing amrablog merge file db connected
+2021-08-10 12:54:26 INFO     Welcome To Intelligent Library Managment System
+2021-08-10 12:54:26 INFO     armablog merge file calling here
+2021-08-10 12:54:26 WARNING  check db connection
+2021-08-10 12:54:26 WARNING  chck db available
+2021-08-10 12:54:26 WARNING  check table available
+2021-08-10 12:54:26 WARNING  check server is on
+2021-08-10 12:54:26 WARNING  if error occured then remove try catch block
+2021-08-10 12:54:26 WARNING  testing db connection is establishing in ARMABLOG_MERGE
+2021-08-10 12:54:26 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-10 12:54:26 DEBUG    testing amrablog merge file db connected
+2021-08-12 12:50:07 INFO     Welcome To Intelligent Library Managment System
+2021-08-12 12:50:07 INFO     armablog merge file calling here
+2021-08-12 12:50:07 WARNING  check db connection
+2021-08-12 12:50:07 WARNING  chck db available
+2021-08-12 12:50:07 WARNING  check table available
+2021-08-12 12:50:07 WARNING  check server is on
+2021-08-12 12:50:07 WARNING  if error occured then remove try catch block
+2021-08-12 12:50:07 WARNING  testing db connection is establishing in ARMABLOG_MERGE
+2021-08-12 12:50:07 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-12 12:50:07 DEBUG    testing amrablog merge file db connected
+2021-08-12 14:52:15 INFO     Welcome To Intelligent Library Managment System
+2021-08-12 14:52:15 INFO     armablog merge file calling here
+2021-08-12 14:52:15 WARNING  check db connection
+2021-08-12 14:52:15 WARNING  chck db available
+2021-08-12 14:52:15 WARNING  check table available
+2021-08-12 14:52:15 WARNING  check server is on
+2021-08-12 14:52:15 WARNING  if error occured then remove try catch block
+2021-08-12 14:52:15 WARNING  testing db connection is establishing in ARMABLOG_MERGE
+2021-08-12 14:52:15 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-12 14:52:15 DEBUG    testing amrablog merge file db connected
+2021-08-12 16:00:14 INFO     Welcome To Intelligent Library Managment System
+2021-08-12 16:00:14 INFO     armablog merge file calling here
+2021-08-12 16:00:14 WARNING  check db connection
+2021-08-12 16:00:14 WARNING  chck db available
+2021-08-12 16:00:14 WARNING  check table available
+2021-08-12 16:00:14 WARNING  check server is on
+2021-08-12 16:00:14 WARNING  if error occured then remove try catch block
+2021-08-12 16:00:14 WARNING  testing db connection is establishing in ARMABLOG_MERGE
+2021-08-12 16:00:14 DEBUG    new_auth_plugin: mysql_native_password
+2021-08-12 16:00:14 DEBUG    testing amrablog merge file db connected

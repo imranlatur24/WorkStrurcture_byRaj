@@ -1,0 +1,20 @@
+solved :
+ 1.subjectname is not fetch in all_merge tbl-done
+ 2.
+
+solved:
+ 1.user can seach keywords like 'india',"india","%india%",%india%" user get always proper result in all conditions
+ 2.this condition work as well as in individual dbs like npte,arma, and so on.
+
+solved:
+ 1.user can get autosuggestion in individual from all column which is user can show cols in front of individual db
+ 2.user can get autosuggestion from all 5 dbs cols in ALL seaching scenarios.
+
+ 3.remains : - dspace export work basis on DRDO
+ with the help of laxman get some more work for dynamic things for our project future enhancement before deployment
+ on client side.
+
+ 4.front-end bugs:coordincate with vaibhav
+ 1.id not getting in latst update for deleting single notification
+
+ 5.ask about deployment on LAN N/W and how to access it to everyone withing LAN N/W

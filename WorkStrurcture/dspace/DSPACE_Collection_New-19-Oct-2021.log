@@ -1,0 +1,36 @@
+2021-10-19 01:29:24 INFO     Welcome To Intelligent Library Managment System
+2021-10-19 01:29:24 INFO     getcols_dspace file calling here
+2021-10-19 01:29:24 WARNING  check db connection
+2021-10-19 01:29:24 WARNING  chck db available
+2021-10-19 01:29:24 WARNING  check table available
+2021-10-19 01:29:24 WARNING  check server is on
+2021-10-19 01:29:24 WARNING  if error occured then remove try catch block
+2021-10-19 01:29:24 DEBUG    drdo database establishing in getcols_dspace file
+2021-10-19 01:29:24 DEBUG    getcols_janes database connection establishing..in getcols_dspace FILE
+2021-10-19 01:29:28 INFO     Welcome To Intelligent Library Managment System
+2021-10-19 01:29:28 INFO     getcols_dspace file calling here
+2021-10-19 01:29:28 WARNING  check db connection
+2021-10-19 01:29:28 WARNING  chck db available
+2021-10-19 01:29:28 WARNING  check table available
+2021-10-19 01:29:28 WARNING  check server is on
+2021-10-19 01:29:28 WARNING  if error occured then remove try catch block
+2021-10-19 01:29:28 DEBUG    drdo database establishing in getcols_dspace file
+2021-10-19 01:29:28 DEBUG    getcols_janes database connection establishing..in getcols_dspace FILE
+2021-10-19 12:57:39 INFO     Welcome To Intelligent Library Managment System
+2021-10-19 12:57:39 INFO     getcols_dspace file calling here
+2021-10-19 12:57:39 WARNING  check db connection
+2021-10-19 12:57:39 WARNING  chck db available
+2021-10-19 12:57:39 WARNING  check table available
+2021-10-19 12:57:39 WARNING  check server is on
+2021-10-19 12:57:39 WARNING  if error occured then remove try catch block
+2021-10-19 12:57:39 DEBUG    drdo database establishing in getcols_dspace file
+2021-10-19 12:57:39 DEBUG    getcols_janes database connection establishing..in getcols_dspace FILE
+2021-10-19 12:57:43 INFO     Welcome To Intelligent Library Managment System
+2021-10-19 12:57:43 INFO     getcols_dspace file calling here
+2021-10-19 12:57:43 WARNING  check db connection
+2021-10-19 12:57:43 WARNING  chck db available
+2021-10-19 12:57:43 WARNING  check table available
+2021-10-19 12:57:43 WARNING  check server is on
+2021-10-19 12:57:43 WARNING  if error occured then remove try catch block
+2021-10-19 12:57:43 DEBUG    drdo database establishing in getcols_dspace file
+2021-10-19 12:57:43 DEBUG    getcols_janes database connection establishing..in getcols_dspace FILE

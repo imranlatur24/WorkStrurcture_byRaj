@@ -1,0 +1,40 @@
+2021-06-09 15:38:27 INFO     Welcome To Intelligent Library Managment System
+2021-06-09 15:38:27 INFO     getcols_dspace file calling here
+2021-06-09 15:38:27 WARNING  check db connection
+2021-06-09 15:38:27 WARNING  chck db available
+2021-06-09 15:38:27 WARNING  check table available
+2021-06-09 15:38:27 WARNING  check server is on
+2021-06-09 15:38:27 WARNING  if error occured then remove try catch block
+2021-06-09 15:38:27 DEBUG    drdo database establishing in getcols_dspace file
+2021-06-09 15:38:27 DEBUG    getcols_janes database connection establishing..in getcols_dspace FILE
+2021-06-09 15:38:27 INFO     getcols table in testing db is connnected successfully in getcols_dspace file
+2021-06-09 15:40:07 INFO     Welcome To Intelligent Library Managment System
+2021-06-09 15:40:07 INFO     getcols_dspace file calling here
+2021-06-09 15:40:07 WARNING  check db connection
+2021-06-09 15:40:07 WARNING  chck db available
+2021-06-09 15:40:07 WARNING  check table available
+2021-06-09 15:40:07 WARNING  check server is on
+2021-06-09 15:40:07 WARNING  if error occured then remove try catch block
+2021-06-09 15:40:07 DEBUG    drdo database establishing in getcols_dspace file
+2021-06-09 15:40:07 DEBUG    getcols_janes database connection establishing..in getcols_dspace FILE
+2021-06-09 15:40:07 INFO     getcols table in testing db is connnected successfully in getcols_dspace file
+2021-06-09 15:43:10 INFO     Welcome To Intelligent Library Managment System
+2021-06-09 15:43:10 INFO     getcols_dspace file calling here
+2021-06-09 15:43:10 WARNING  check db connection
+2021-06-09 15:43:10 WARNING  chck db available
+2021-06-09 15:43:10 WARNING  check table available
+2021-06-09 15:43:10 WARNING  check server is on
+2021-06-09 15:43:10 WARNING  if error occured then remove try catch block
+2021-06-09 15:43:10 DEBUG    drdo database establishing in getcols_dspace file
+2021-06-09 15:43:10 DEBUG    getcols_janes database connection establishing..in getcols_dspace FILE
+2021-06-09 15:43:10 INFO     getcols table in testing db is connnected successfully in getcols_dspace file
+2021-06-30 14:31:04 INFO     Welcome To Intelligent Library Managment System
+2021-06-30 14:31:04 INFO     getcols_dspace file calling here
+2021-06-30 14:31:04 WARNING  check db connection
+2021-06-30 14:31:04 WARNING  chck db available
+2021-06-30 14:31:04 WARNING  check table available
+2021-06-30 14:31:04 WARNING  check server is on
+2021-06-30 14:31:04 WARNING  if error occured then remove try catch block
+2021-06-30 14:31:04 DEBUG    drdo database establishing in getcols_dspace file
+2021-06-30 14:31:04 DEBUG    getcols_janes database connection establishing..in getcols_dspace FILE
+2021-06-30 14:31:04 INFO     getcols table in testing db is connnected successfully in getcols_dspace file

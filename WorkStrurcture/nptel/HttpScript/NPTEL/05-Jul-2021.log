@@ -1,0 +1,63 @@
+2021-07-05 14:09:08 INFO     Welcome To Intelligent Library Managment System
+2021-07-05 14:09:08 INFO     child_lectname file calling here
+2021-07-05 14:09:08 WARNING  check db connection
+2021-07-05 14:09:08 WARNING  chck db available
+2021-07-05 14:09:08 WARNING  check table available
+2021-07-05 14:09:08 WARNING  check server is on
+2021-07-05 14:09:08 WARNING  if error occured then remove try catch block
+2021-07-05 14:09:08 DEBUG    drdo database establishing in child_filepath file
+2021-07-05 14:09:08 DEBUG    child_real database connection establishing..in child_filepath FILE
+2021-07-05 14:09:08 DEBUG    new_auth_plugin: mysql_native_password
+2021-07-05 14:09:08 ERROR    child_filepath table in np db is connnected successfully in child_filepath file
+2021-07-05 14:09:08 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:08 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/HSS.html HTTP/1.1" 200 142802
+2021-07-05 14:09:09 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:09 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/aer1.html HTTP/1.1" 200 99308
+2021-07-05 14:09:09 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:09 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/aer1_Bak.html HTTP/1.1" 200 322967
+2021-07-05 14:09:10 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:10 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/atmospheric.html HTTP/1.1" 200 8316
+2021-07-05 14:09:10 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:10 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/basic_courses.html HTTP/1.1" 200 77726
+2021-07-05 14:09:10 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:10 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/biotech.html HTTP/1.1" 200 111225
+2021-07-05 14:09:11 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:11 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/chem_bioichem.html HTTP/1.1" 200 115203
+2021-07-05 14:09:11 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:11 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/chemical.html HTTP/1.1" 200 223568
+2021-07-05 14:09:11 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:11 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/civil.html HTTP/1.1" 200 282312
+2021-07-05 14:09:12 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:12 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/css.html HTTP/1.1" 200 183949
+2021-07-05 14:09:13 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:13 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/displayvideo.html HTTP/1.1" 200 2152
+2021-07-05 14:09:13 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:13 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/displayweb.html HTTP/1.1" 200 1045
+2021-07-05 14:09:13 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:13 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/ece.html HTTP/1.1" 200 157727
+2021-07-05 14:09:13 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:13 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/electrical.html HTTP/1.1" 200 160287
+2021-07-05 14:09:14 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:14 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/engg_design.html HTTP/1.1" 200 30376
+2021-07-05 14:09:14 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:14 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/enviorm.html HTTP/1.1" 200 8847
+2021-07-05 14:09:14 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:14 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/general.html HTTP/1.1" 200 4495
+2021-07-05 14:09:14 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:14 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/management.html HTTP/1.1" 200 94909
+2021-07-05 14:09:14 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:14 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/maths.html HTTP/1.1" 200 149291
+2021-07-05 14:09:15 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:15 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/mechanical.html HTTP/1.1" 200 322967
+2021-07-05 14:09:16 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:16 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/metallurgy.html HTTP/1.1" 200 133667
+2021-07-05 14:09:16 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:16 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/mining.html HTTP/1.1" 200 5842
+2021-07-05 14:09:16 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:16 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/nano.html HTTP/1.1" 200 12732
+2021-07-05 14:09:16 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:16 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/ocean.html HTTP/1.1" 200 56852
+2021-07-05 14:09:16 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:16 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/physics.html HTTP/1.1" 200 93224
+2021-07-05 14:09:17 DEBUG    Starting new HTTP connection (1): 127.0.0.1:4433
+2021-07-05 14:09:17 DEBUG    http://127.0.0.1:4433 "GET /NPTEL/textile.html HTTP/1.1" 200 76987
